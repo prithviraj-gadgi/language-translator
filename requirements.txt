@@ -1,0 +1,4 @@
+# sudo apt-get install python3-tk
+# sudo apt-get install fonts-noto fonts-noto-cjk fonts-noto-color-emoji fonts-noto-unhinted fonts-indic fonts-arphic-ukai fonts-arphic-uming fonts-ocr-b fonts-sil-abyssinica fonts-sil-padauk fonts-kacst fonts-khmeros fonts-lao fonts-thai-tlwg fonts-tibetan-machine
+
+googletrans==4.0.0-rc1
